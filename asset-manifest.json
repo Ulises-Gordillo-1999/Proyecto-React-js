@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Proyecto-React-js/static/css/main.8d7d0b1c.chunk.css",
+    "main.js": "/Proyecto-React-js/static/js/main.18e04615.chunk.js",
+    "main.js.map": "/Proyecto-React-js/static/js/main.18e04615.chunk.js.map",
+    "runtime-main.js": "/Proyecto-React-js/static/js/runtime-main.a9e7bf4d.js",
+    "runtime-main.js.map": "/Proyecto-React-js/static/js/runtime-main.a9e7bf4d.js.map",
+    "static/css/2.87575806.chunk.css": "/Proyecto-React-js/static/css/2.87575806.chunk.css",
+    "static/js/2.0d7db9d1.chunk.js": "/Proyecto-React-js/static/js/2.0d7db9d1.chunk.js",
+    "static/js/2.0d7db9d1.chunk.js.map": "/Proyecto-React-js/static/js/2.0d7db9d1.chunk.js.map",
+    "static/js/3.28e3c98e.chunk.js": "/Proyecto-React-js/static/js/3.28e3c98e.chunk.js",
+    "static/js/3.28e3c98e.chunk.js.map": "/Proyecto-React-js/static/js/3.28e3c98e.chunk.js.map",
+    "index.html": "/Proyecto-React-js/index.html",
+    "static/css/2.87575806.chunk.css.map": "/Proyecto-React-js/static/css/2.87575806.chunk.css.map",
+    "static/css/main.8d7d0b1c.chunk.css.map": "/Proyecto-React-js/static/css/main.8d7d0b1c.chunk.css.map",
+    "static/js/2.0d7db9d1.chunk.js.LICENSE.txt": "/Proyecto-React-js/static/js/2.0d7db9d1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Proyecto-React-js/static/media/Fondo3.d4d048b4.jpg",
+    "static/media/carrito_ecommerce.b0c81f28.jpg": "/Proyecto-React-js/static/media/carrito_ecommerce.b0c81f28.jpg",
+    "static/media/ecommerce.f342a7b1.jpg": "/Proyecto-React-js/static/media/ecommerce.f342a7b1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9e7bf4d.js",
+    "static/css/2.87575806.chunk.css",
+    "static/js/2.0d7db9d1.chunk.js",
+    "static/css/main.8d7d0b1c.chunk.css",
+    "static/js/main.18e04615.chunk.js"
+  ]
+}
