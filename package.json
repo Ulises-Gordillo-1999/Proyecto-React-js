@@ -1,8 +1,8 @@
 {
-  "homepage": "https://ulises-gordillo-1999.github.io/Proyecto-React-js/",
   "name": "udg-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ulises-gordillo-1999.github.io/Proyecto-React-js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
