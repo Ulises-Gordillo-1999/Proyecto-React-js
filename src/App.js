@@ -5,7 +5,6 @@ import AppRouter from "./routers/AppRouter";
 //import "bootstrap/dist/css/bootstrap.min.css";
 import { CartProvider } from "./Context/CartContext";
 //Firebase
-//import "@firebase/firestore"
 
 function App() {
   return (
